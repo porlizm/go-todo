@@ -164,7 +164,6 @@ MongoDB Go driver team
 
 Renderer package author
 
-Copy
 
 ### Additional Files Needed
 
@@ -173,7 +172,6 @@ MONGODB_URI=mongodb://localhost:27017
 DB_NAME=todoapp
 PORT=9000
 
-Copy
 
 2. Create `Dockerfile` (optional for Docker deployment):
 ```dockerfile
