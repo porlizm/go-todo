@@ -1,0 +1,4 @@
+echo ".env" >> .gitignore
+echo "bin/" >> .gitignore
+echo "*.exe" >> .gitignore
+echo "*.log" >> .gitignore
